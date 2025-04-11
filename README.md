@@ -1,4 +1,4 @@
-# 🚀 Susanto Mandal - Full Stack Developer Portfolio
+# 🚀 Rohit Kumar - Full Stack Developer Portfolio
 ![Portfolio Screenshot](https://github.com/user-attachments/assets/27e3470c-4eea-4789-b3a3-d6ad202e2a2d)  
 *Modern, performant portfolio showcasing my technical expertise*  
 
@@ -20,7 +20,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/sushi27/portfolio.git
+git clone https://github.com/rohit9123/portfolio.git
 
 # Install dependencies
 npm install
