@@ -69,4 +69,4 @@ While this is my personal portfolio, I welcome suggestions:
 3. Submit a pull request  
 
 ## 📜 License  
-**MIT License** – © 2025 Susanto Mandal  
+**MIT License** – © 2025 Rohit Kumar 
