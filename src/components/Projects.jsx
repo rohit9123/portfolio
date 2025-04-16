@@ -45,6 +45,7 @@ const projects = [
     "category": "backend",
     "links": {
       "github": "https://github.com/rohit9123/quickcut",
+      "demo": "https://url-shortner-frontend-green.vercel.app/"
     }
   },
   {
